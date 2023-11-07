@@ -1,5 +1,5 @@
 # Coding-Assignment-3
-Topic: This prohect aimed to test the Perspective API's accuracy of asssessing toxicity of LGBTQ comments vs. non LGBTQ comments.
+Topic: This project aimed to test the Perspective API's accuracy of asssessing toxicity of LGBTQ comments vs. non LGBTQ comments.
 
 Hypothesis: I hypothesize that Perspective API will be biased in that it overlooks anti-LGBTQ content as toxic more frequently than other content and classifies non-toxic LGBTQ comments as toxic more often.
 
